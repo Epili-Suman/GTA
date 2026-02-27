@@ -1,5 +1,12 @@
 package mavenPractice;
 
-public class NewMavenTest {
+import org.testng.annotations.Test;
 
+public class NewMavenTest
+{
+	@Test
+	public void newOne()
+	{
+		
+	}
 }
